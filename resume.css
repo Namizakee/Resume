@@ -1,0 +1,19 @@
+h2{
+    text-align: justify;
+    text-decoration:underline;
+    text-shadow: 5ex;
+    margin-left: 1em;
+}
+body{
+    background-color: bisque;
+    background-blend-mode:lighten;
+}
+p{
+    text-align: justify;
+}
+br{
+    text-indent: 1em;
+}
+.resume{
+    
+}
